@@ -1,6 +1,7 @@
 # Generating html documentation 
 Prerequisites
 > $ sudo apt-get install wget saxon
+
 > $ brew install wget saxon
 
 Assuming you run art-decor on localhost:8085
